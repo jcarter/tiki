@@ -1,12 +1,15 @@
+@font-face {
+  font-family: 'Citro';
+  src: url('assets/Citro.ttf') format('truetype');
+}
+
 body {
-  /* font-family: 'Roboto', sans-serif; */
-  /* font-family: 'Caveat', cursive; */
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Citro', cursive;
   background-color: #eadecf;
   color: #333;
   margin: 0;
   padding: 0;
-  background-image: url('images/parchment.png');
+  background-image: url('assets/parchment.png');
   background-repeat: repeat;
   background-color: #f8e9d4;
 }
@@ -61,7 +64,7 @@ h1 {
 }
 
 .collapsible {
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Citro', cursive;
   color: #8b4513;
   background-color: #f8e9d4;
   cursor: pointer;
