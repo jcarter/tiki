@@ -5,13 +5,12 @@
 
 body {
   font-family: 'Font', cursive;
-  background-color: #eadecf;
   color: #333;
   margin: 0;
   padding: 0;
   background-image: url('assets/parchment.png');
   background-repeat: repeat;
-  background-color: #f8e9d4;
+  background-color: #e0c89b;
 }
 
 .menu-container {
