@@ -8,7 +8,8 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
-  background-image: url('assets/parchment.png');
+  background-image: url('assets/parchment2.png');
+  height: 900px;
   background-repeat: repeat;
   background-color: #e0c89b;
 }
